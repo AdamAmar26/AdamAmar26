@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Adam 👋
 
-<!--
-**AdamAmar26/AdamAmar26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 AI & Cybersecurity Engineer (Entry-Level)  
+💡 Building intelligent systems for threat detection, automation, and decision-making  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m Building
+
+- 🔐 AI-powered Intrusion Detection System (IDS)
+- 🧠 MCMC-based Poker Decision Engine
+- 🤖 Local AI Agent Systems (offline-first)
+
+---
+
+## 🧩 Featured Projects
+
+### 🔐 IDS Platform (AI + Security)
+- Real-time anomaly detection using Isolation Forest
+- AI-generated explanations of alerts
+- Local-first deployment (Raspberry Pi ready)
+- Focus: adversarial robustness & real-world usability
+
+👉 [View Project](https://github.com/AdamAmar26/IDS-Project)
+
+---
+
+### ♠️ PokerEdge – AI Decision Engine
+- Monte Carlo + MCMC simulations
+- Opponent modeling with probabilistic inference
+- Real-time win-rate estimation
+
+---
+
+## 🛠 Tech Stack
+
+Python | FastAPI | React | SQLite  
+Machine Learning | Cybersecurity | Systems Design  
+
+---
+
+## 📫 Let’s Connect
+LinkedIn: <your link>
+Portfolio: <your site>
