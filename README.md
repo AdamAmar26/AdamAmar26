@@ -40,5 +40,5 @@ Machine Learning | Cybersecurity | Systems Design
 ---
 
 ## 📫 Let’s Connect
-LinkedIn: <your link>
-Portfolio: <your site>
+LinkedIn: <https://www.linkedin.com/in/amaradam/>
+Portfolio: <https://adamamar.me>
